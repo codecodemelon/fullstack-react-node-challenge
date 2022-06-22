@@ -23,9 +23,10 @@ Build a RESTful API that can `get, create, update and delete` user data from a p
 
 ### Functionality
 
-- The API should follow typical RESTful API design pattern.
+- Should use MVC architecture
 - The data should be saved in database
-- Provide proper API document.
+- Provide proper API document (on README)
+- Write good in-code comments.
 
 ### Tech stack
 
@@ -35,7 +36,6 @@ Build a RESTful API that can `get, create, update and delete` user data from a p
 ### Bonus
 
 - Write clear documentation on how it's designed and how to run the code.
-- Write good in-code comments.
 - Write good commit messages.
 - Provide proper unit test.
 - Provide a complete user auth (authentication/authorization/etc.) strategy, such as JWT.
@@ -48,5 +48,5 @@ Feel free to use any open-source library as you see fit, but remember that we ar
 Here's what you should aim for:
 
 - Good use of current Node.js & API design best practices.
-- Good testing approach.
+- Proper documentation.
 - Extensible code.
