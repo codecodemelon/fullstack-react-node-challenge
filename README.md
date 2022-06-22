@@ -24,7 +24,7 @@ Build a RESTful API that can `get, create, update and delete` user data from a p
 ### Functionality
 
 - The API should follow typical RESTful API design pattern.
-- The data should be saved in MongoDB
+- The data should be saved in database
 - Provide proper API document.
 
 ### Tech stack
