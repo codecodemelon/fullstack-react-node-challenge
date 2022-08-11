@@ -1,10 +1,10 @@
-# Backend Developer (Node.js) test
+# Fullstack Web Developer (React-Node) test
 
 Make sure you read the whole document carefully and follow the guidelines in it.
 
 ## Context
 
-Build a RESTful API that can `get, create, update and delete` user data from a persistence database
+Build a RESTful API and a user interface that can `get, create, update and delete` user data from a persistence database
 
 ### User Model
 
@@ -23,15 +23,15 @@ Build a RESTful API that can `get, create, update and delete` user data from a p
 
 ### Functionality
 
-- Should use MVC architecture
+- Use any architectural pattern (MVC, MVVM, Client-Server, etc.)
 - The data should be saved in database
-- Provide proper API document (on README)
 - Write good in-code comments.
 
 ### Tech stack
 
-- Use Node.js and any framework.
-- Use any DB. NoSQL DB is preferred.
+- Backend: Node.js
+- Frontend: React.js
+- Database: Any (NoSQL DB is preferred.)
 
 ### Bonus
 
