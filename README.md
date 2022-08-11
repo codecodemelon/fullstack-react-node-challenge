@@ -4,7 +4,7 @@ Make sure you read the whole document carefully and follow the guidelines in it.
 
 ## Context
 
-Build a RESTful API and a user interface that can `get, create, update and delete` user data from a persistence database
+Build a web application that can `get, create, update and delete` user data from a persistence database
 
 ### User Model
 
