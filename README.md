@@ -47,6 +47,6 @@ Feel free to use any open-source library as you see fit, but remember that we ar
 
 Here's what you should aim for:
 
-- Good use of current Node.js & API design best practices.
+- Good use of current Node.js & React best practices.
 - Proper documentation.
 - Extensible code.
